@@ -1,0 +1,6 @@
+@AlpacaTrading.Api_HostAddress = http://localhost:5276
+
+GET {{AlpacaTrading.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

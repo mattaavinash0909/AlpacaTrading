@@ -1,0 +1,251 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "AlpacaTrading.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Account": {
+      "get": {
+        "tags": [
+          "Account"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccountSummaryDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccountSummaryDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccountSummaryDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Analysis/{symbol}": {
+      "get": {
+        "tags": [
+          "Analysis"
+        ],
+        "parameters": [
+          {
+            "name": "symbol",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/StockAnalysisDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StockAnalysisDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StockAnalysisDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AccountSummaryDto": {
+        "type": "object",
+        "properties": {
+          "accountNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "buyingPower": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "cash": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "equity": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "lastEquity": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "todayPnL": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "isTradingBlocked": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "StockAnalysisDto": {
+        "type": "object",
+        "properties": {
+          "symbol": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "dataSource": {
+            "type": "string",
+            "nullable": true
+          },
+          "latestClose": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "sma20": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "sma50": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "volume": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "signal": {
+            "type": "string",
+            "nullable": true
+          },
+          "reason": {
+            "type": "string",
+            "nullable": true
+          },
+          "generatedAt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Account"
+    },
+    {
+      "name": "Analysis"
+    },
+    {
+      "name": "WeatherForecast"
+    }
+  ]
+}

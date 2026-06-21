@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\services\\stockanalysis\\stockanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\services\\stockanalysis\\stockanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\models\\stockanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\models\\stockanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\services\\stockanalysis\\istockanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\services\\stockanalysis\\istockanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\services\\alpacaaccount\\ialpacaaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\services\\alpacaaccount\\ialpacaaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\services\\alpacaaccount\\alpacaaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\services\\alpacaaccount\\alpacaaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\models\\accountsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\models\\accountsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|d:\\products\\alpacatrading\\backend\\alpacatrading.api\\alpacatrading.api\\alpacatrading.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2AE8F3FF-5335-0CAE-C9A7-D8B24DFB9C66}|AlpacaTrading.Api\\AlpacaTrading.Api.csproj|solutionrelative:alpacatrading.api\\alpacatrading.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AlpacaTrading.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T15:40:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Controllers\\AnalysisController.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:15:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockAnalysisDto.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Models\\StockAnalysisDto.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Models\\StockAnalysisDto.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Models\\StockAnalysisDto.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Models\\StockAnalysisDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:10:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStockAnalysisService.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\StockAnalysis\\IStockAnalysisService.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Services\\StockAnalysis\\IStockAnalysisService.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\StockAnalysis\\IStockAnalysisService.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Services\\StockAnalysis\\IStockAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:09:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockAnalysisService.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\StockAnalysis\\StockAnalysisService.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Services\\StockAnalysis\\StockAnalysisService.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\StockAnalysis\\StockAnalysisService.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Services\\StockAnalysis\\StockAnalysisService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:08:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlpacaAccountService.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\AlpacaAccount\\IAlpacaAccountService.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Services\\AlpacaAccount\\IAlpacaAccountService.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\AlpacaAccount\\IAlpacaAccountService.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Services\\AlpacaAccount\\IAlpacaAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:22:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlpacaAccountService.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\AlpacaAccount\\AlpacaAccountService.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Services\\AlpacaAccount\\AlpacaAccountService.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Services\\AlpacaAccount\\AlpacaAccountService.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Services\\AlpacaAccount\\AlpacaAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:23:55.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Program.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Program.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:24:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountSummaryDto.cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Models\\AccountSummaryDto.cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Models\\AccountSummaryDto.cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Models\\AccountSummaryDto.cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Models\\AccountSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:21:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\Controllers\\AccountController .cs",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "AlpacaTrading.Api\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:04:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlpacaTrading.Api",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\AlpacaTrading.Api.csproj",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\AlpacaTrading.Api.csproj",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\AlpacaTrading.Api.csproj",
+              "RelativeToolTip": "AlpacaTrading.Api\\AlpacaTrading.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T13:56:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AlpacaTrading.Api\\appsettings.json",
+              "ToolTip": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\appsettings.json",
+              "RelativeToolTip": "AlpacaTrading.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T13:17:50.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

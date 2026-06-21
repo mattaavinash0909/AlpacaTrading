@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tl6lx9ObPlA=",
+  "success": true,
+  "projectFilePath": "D:\\Products\\AlpacaTrading\\backend\\AlpacaTrading.Api\\AlpacaTrading.Api\\AlpacaTrading.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avinash\\.nuget\\packages\\alpaca.markets\\7.2.0\\alpaca.markets.7.2.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\polly\\8.5.0\\polly.8.5.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\polly.core\\8.5.0\\polly.core.8.5.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.2\\swashbuckle.aspnetcore.swagger.10.2.2.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.2\\swashbuckle.aspnetcore.swaggergen.10.2.2.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.2\\swashbuckle.aspnetcore.swaggerui.10.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
